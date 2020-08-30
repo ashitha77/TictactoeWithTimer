@@ -1,2 +1,2 @@
-# TictactoeWithTimer
+# TicTacToe
 Created with CodeSandbox
